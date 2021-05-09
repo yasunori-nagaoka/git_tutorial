@@ -1,3 +1,4 @@
+insert 1stline
 a
 b
-last line
+ast lne
